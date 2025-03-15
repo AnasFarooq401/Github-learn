@@ -1,2 +1,3 @@
 print("Hi! this is my first project")
 print("Pray for me during the Ramazan")
+Functionally calculate Fees --> day2
